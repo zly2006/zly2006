@@ -1,7 +1,6 @@
 ### Hey, I'm zly2006
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zly2006&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zly2006&theme=github)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zly2006&layout=compact&hide_border=true&hide=html,css,stylus)
-
-Recently I am working at <https://github.com/zly2006/Seserot>
+Recently I am working at <https://github.com/zly2006/Enclosure>
