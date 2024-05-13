@@ -5,4 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zly2006&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zly2006&theme=github)
 
-Recently I am working at <https://github.com/zly2006/Enclosure>
+Recently I am working at <https://github.com/zly2006/reden-is-what-we-made>
+
+See my skills [here](https://github.com/zly2006/zly2006/blob/main/skills.md)
