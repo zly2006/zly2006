@@ -13,10 +13,12 @@
 
 - Ubuntu
 - MySQL
-- C#
 - Vue 3
-- Chrome extension
 - Typescript
+- Docker
+- Gradle
+- C#
+- Chrome extension
 - ImGui
 - Spring
 
