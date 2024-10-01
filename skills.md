@@ -14,6 +14,7 @@
 - Ubuntu
 - MySQL
 - Vue 3
+- Nuxt
 - Typescript
 - Docker
 - Gradle
@@ -27,4 +28,6 @@
 - LLVM
 - Qt 6
 - React
+- Android
+- Powershell
 
