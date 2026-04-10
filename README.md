@@ -5,6 +5,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zly2006&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zly2006&theme=transparent)
 
-Recently I am working at <https://github.com/zly2006/zhihu-plus-plus>
-
-See my skills [here](https://github.com/zly2006/zly2006/blob/main/skills.md)
+For more information please visit https://zly2006.me
