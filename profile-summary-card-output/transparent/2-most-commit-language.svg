@@ -1,3 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200"><style>* {
-          font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
-        }</style><g class="gpsc-root"><rect x="1" y="1" rx="5" ry="5" height="99%" width="99.41176470588235%" stroke="#000000" stroke-width="1" fill="#00000000" stroke-opacity="0"></rect><text x="30" y="40" class="gpsc-item" style="--gpsc-i: 0; font-size: 22px; fill: #006AFF;">Top Languages by Commit</text><g transform="translate(0,40)"><g transform="translate(40,0)"><rect y="18" width="14" height="14" class="gpsc-item" style="--gpsc-i: 0; stroke-width: 1px;" fill="#A97BFF" stroke="#00000000"></rect><rect y="43.2" width="14" height="14" class="gpsc-item" style="--gpsc-i: 1; stroke-width: 1px;" fill="#41b883" stroke="#00000000"></rect><rect y="68.4" width="14" height="14" class="gpsc-item" style="--gpsc-i: 2; stroke-width: 1px;" fill="#b07219" stroke="#00000000"></rect><rect y="93.60000000000002" width="14" height="14" class="gpsc-item" style="--gpsc-i: 3; stroke-width: 1px;" fill="#dea584" stroke="#00000000"></rect><rect y="118.80000000000001" width="14" height="14" class="gpsc-item" style="--gpsc-i: 4; stroke-width: 1px;" fill="#3572A5" stroke="#00000000"></rect><text x="16.8" y="30" class="gpsc-item" style="--gpsc-i: 0; fill: #417E87; font-size: 14px;">Kotlin</text><text x="16.8" y="55.2" class="gpsc-item" style="--gpsc-i: 1; fill: #417E87; font-size: 14px;">Vue</text><text x="16.8" y="80.4" class="gpsc-item" style="--gpsc-i: 2; fill: #417E87; font-size: 14px;">Java</text><text x="16.8" y="105.60000000000002" class="gpsc-item" style="--gpsc-i: 3; fill: #417E87; font-size: 14px;">Rust</text><text x="16.8" y="130.8" class="gpsc-item" style="--gpsc-i: 4; fill: #417E87; font-size: 14px;">Python</text></g><g transform="translate( 230, 80 )"><g class="arc" style="--gpsc-i: 0;"><path d="M3.67394039744206e-15,-60A60,60,0,1,1,-53.28646775696928,27.57811367707142L-31.083772858232077,16.087232978291663A35,35,0,1,0,2.1431318985078682e-15,-35Z" style="fill: #A97BFF; stroke-width: 2px;" stroke="#00000000"></path></g><g class="arc" style="--gpsc-i: 1;"><path d="M-53.28646775696928,27.57811367707142A60,60,0,0,1,-47.146915413897155,-37.11021917147387L-27.50236732477334,-21.647627850026424A35,35,0,0,0,-31.083772858232077,16.087232978291663Z" style="fill: #41b883; stroke-width: 2px;" stroke="#00000000"></path></g><g class="arc" style="--gpsc-i: 2;"><path d="M-47.146915413897155,-37.11021917147387A60,60,0,0,1,-27.16203224198564,-53.499757050713164L-15.844518807824954,-31.20819161291601A35,35,0,0,0,-27.50236732477334,-21.647627850026424Z" style="fill: #b07219; stroke-width: 2px;" stroke="#00000000"></path></g><g class="arc" style="--gpsc-i: 3;"><path d="M-27.16203224198564,-53.499757050713164A60,60,0,0,1,-10.630781781760271,-59.05071107707844L-6.201289372693492,-34.44624812829576A35,35,0,0,0,-15.844518807824954,-31.20819161291601Z" style="fill: #dea584; stroke-width: 2px;" stroke="#00000000"></path></g><g class="arc" style="--gpsc-i: 4;"><path d="M-10.630781781760271,-59.05071107707844A60,60,0,0,1,-1.1021821192326178e-14,-60L-6.429395695523604e-15,-35A35,35,0,0,0,-6.201289372693492,-34.44624812829576Z" style="fill: #3572A5; stroke-width: 2px;" stroke="#00000000"></path></g></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img">
+  <metadata>{&quot;username&quot;:&quot;zly2006&quot;,&quot;languages&quot;:{&quot;Kotlin&quot;:1455,&quot;Java&quot;:153,&quot;Rust&quot;:111,&quot;Python&quot;:52,&quot;C++&quot;:43}}</metadata>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    .title { fill: #006aff; font-size: 22px; }
+    .label, .value { fill: #417e87; font-size: 14px; }
+    .value { font-weight: 600; }
+  </style>
+  <rect x="1" y="1" width="338" height="198" rx="5" fill="transparent"/>
+  <text x="30" y="35" class="title">Top Languages by Commit</text>
+  <text x="30" y="65" class="label">Kotlin</text>
+  <rect x="115" y="54" width="145" height="10" rx="5" fill="#d8dee4" fill-opacity="0.45"/>
+  <rect x="115" y="54" width="116" height="10" rx="5" fill="#a97bff"/>
+  <text x="274" y="65" class="value">80%</text>
+  <text x="30" y="92" class="label">Java</text>
+  <rect x="115" y="81" width="145" height="10" rx="5" fill="#d8dee4" fill-opacity="0.45"/>
+  <rect x="115" y="81" width="12" height="10" rx="5" fill="#b07219"/>
+  <text x="274" y="92" class="value">8%</text>
+  <text x="30" y="119" class="label">Rust</text>
+  <rect x="115" y="108" width="145" height="10" rx="5" fill="#d8dee4" fill-opacity="0.45"/>
+  <rect x="115" y="108" width="9" height="10" rx="5" fill="#dea584"/>
+  <text x="274" y="119" class="value">6%</text>
+  <text x="30" y="146" class="label">Python</text>
+  <rect x="115" y="135" width="145" height="10" rx="5" fill="#d8dee4" fill-opacity="0.45"/>
+  <rect x="115" y="135" width="4" height="10" rx="5" fill="#3572a5"/>
+  <text x="274" y="146" class="value">3%</text>
+  <text x="30" y="173" class="label">C++</text>
+  <rect x="115" y="162" width="145" height="10" rx="5" fill="#d8dee4" fill-opacity="0.45"/>
+  <rect x="115" y="162" width="3" height="10" rx="5" fill="#f34b7d"/>
+  <text x="274" y="173" class="value">2%</text>
+</svg>

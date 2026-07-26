@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img">
+  <metadata>{&quot;username&quot;:&quot;zly2006&quot;,&quot;totalStars&quot;:3930,&quot;publicCommits&quot;:3297,&quot;pullRequests&quot;:404,&quot;issues&quot;:115,&quot;publicRepositories&quot;:69}</metadata>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    .title { fill: #006aff; font-size: 22px; }
+    .label, .value { fill: #417e87; font-size: 14px; }
+    .value { font-weight: 600; }
+  </style>
+  <rect x="1" y="1" width="338" height="198" rx="5" fill="transparent"/>
+  <text x="30" y="40" class="title">Stats</text>
+  <circle cx="36" cy="65" r="5" fill="#f1c40f"/>
+  <text x="50" y="70" class="label">Total Stars:</text>
+  <text x="210" y="70" class="value">3.9k</text>
+  <circle cx="36" cy="90" r="5" fill="#0579c3"/>
+  <text x="50" y="95" class="label">Public Commits:</text>
+  <text x="210" y="95" class="value">3.3k</text>
+  <circle cx="36" cy="115" r="5" fill="#8250df"/>
+  <text x="50" y="120" class="label">Total PRs:</text>
+  <text x="210" y="120" class="value">404</text>
+  <circle cx="36" cy="140" r="5" fill="#d73a49"/>
+  <text x="50" y="145" class="label">Total Issues:</text>
+  <text x="210" y="145" class="value">115</text>
+  <circle cx="36" cy="165" r="5" fill="#2da44e"/>
+  <text x="50" y="170" class="label">Public Repos:</text>
+  <text x="210" y="170" class="value">69</text>
+</svg>
