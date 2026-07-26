@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img">
-  <metadata>{&quot;username&quot;:&quot;zly2006&quot;,&quot;totalStars&quot;:3930,&quot;publicCommits&quot;:3297,&quot;pullRequests&quot;:404,&quot;issues&quot;:115,&quot;publicRepositories&quot;:69}</metadata>
+  <metadata>{&quot;username&quot;:&quot;zly2006&quot;,&quot;totalStars&quot;:3930,&quot;publicCommits&quot;:3298,&quot;pullRequests&quot;:402,&quot;issues&quot;:114,&quot;publicRepositories&quot;:69}</metadata>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
     .title { fill: #006aff; font-size: 22px; }
@@ -16,10 +16,10 @@
   <text x="210" y="95" class="value">3.3k</text>
   <circle cx="36" cy="115" r="5" fill="#8250df"/>
   <text x="50" y="120" class="label">Total PRs:</text>
-  <text x="210" y="120" class="value">404</text>
+  <text x="210" y="120" class="value">402</text>
   <circle cx="36" cy="140" r="5" fill="#d73a49"/>
   <text x="50" y="145" class="label">Total Issues:</text>
-  <text x="210" y="145" class="value">115</text>
+  <text x="210" y="145" class="value">114</text>
   <circle cx="36" cy="165" r="5" fill="#2da44e"/>
   <text x="50" y="170" class="label">Public Repos:</text>
   <text x="210" y="170" class="value">69</text>
