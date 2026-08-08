@@ -25,12 +25,31 @@ jobs:
           PROFILE_USERNAME: ${{ github.repository_owner }}
         run: node scripts/generate-profile-cards.mjs
 
+      - name: Generate zhihu-plus-plus star history
+        uses: narayann7/star-history-action@c2061675dacbf6f35d116e556015b8905843387f
+        with:
+          repos: zly2006/zhihu-plus-plus
+          output-dir: /tmp/zhihu-plus-plus-star-history
+          token: ${{ github.token }}
+          type: Date
+          themes: light
+          width: "800"
+          update-readme: "false"
+          commit: "false"
+
+      - name: Copy zhihu-plus-plus star history SVG
+        run: |
+          mkdir -p assets/star-history
+          cp /tmp/zhihu-plus-plus-star-history/star-history-light.svg \
+            assets/star-history/zhihu-plus-plus.svg
+
       - name: Commit updated cards
         run: |
           git config user.name "profile-card-generator[bot]"
           git config user.email "profile-card-generator@example.com"
           git add profile-summary-card-output/transparent/2-most-commit-language.svg
           git add profile-summary-card-output/transparent/3-stats.svg
+          git add assets/star-history/zhihu-plus-plus.svg
           if git diff --cached --quiet; then
             exit 0
           fi
