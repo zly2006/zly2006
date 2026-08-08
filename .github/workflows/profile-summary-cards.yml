@@ -30,7 +30,7 @@ jobs:
         with:
           repos: zly2006/zhihu-plus-plus
           output-dir: /tmp/zhihu-plus-plus-star-history
-          token: ${{ github.token }}
+          token: ${{ secrets.STAR_HISTORY_TOKEN }}
           type: Date
           themes: light
           width: "800"
